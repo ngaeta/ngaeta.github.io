@@ -356,6 +356,23 @@ div.portfolio_item:nth-of-type(even) img {
     margin-right: 50px;
 }
 
+div.portfolio_link_l {
+	float:left;
+	margin-left: 80px;
+}
+
+div.portfolio_link_r {
+	float:right;
+	margin-right: 75px;
+}
+
+div.portfolio_link
+{
+	
+}
+
+
+
 .portfolio_back {
     float: left;
     width: 45px;
